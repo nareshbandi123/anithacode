@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.1m"
+		durationms="64966"
+		type="root"
+		rid="aeabef13b1f62"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="administrator"
+		rxversion="8.2.1.0"
+		host="CIGNITI-W12R2-2"
+		osversion="Windows Server 2012 R2 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1364x768"
+		timestamp="4/11/2019 3:24:29 AM"
+		timestampiso="2019-04-11T10:24:29"
+		endtime="4/11/2019 3:25:34 AM"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.902"
+			timeRelativeToTestModuleStartTime="00:07.904"
+			timeWallClock="03:24:37"
+			time="00:07.902"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Explorer.IderaSQLDiagnosticManagerSQLdmRepo' at 28;30.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/menubar[@processname='explorer']/container[@controlid='40965']//toolbar[@accessiblename='Running applications']/button[@accessiblename~'^Idera\ SQL\ diagnostic\ mana']"
+				itempath="container[@controlid='40965']//toolbar[@accessiblename='Running applications']/button[@accessiblename~'^Idera\ SQL\ diagnostic\ mana']"
+				fullname="AutomationSQLdmRepository.Explorer.IderaSQLDiagnosticManagerSQLdmRepo"
+				id="56f9c558818b4a55be028a090a6a632c"
+				timeout="60000"
+				codefile="D:\repos\fullcodenew\AutomationSQLdm\AutomationSQLdm\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.110"
+			timeRelativeToTestModuleStartTime="00:14.112"
+			timeWallClock="03:24:43"
+			time="00:14.110"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRulesDialog.ActionProviders' at 52;8.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='NotificationRulesDialog']/element[@controlname='ultraTabControl1']/?/?/tabpage[@accessiblename='Action Providers']"
+				itempath="element[@controlname='ultraTabControl1']/?/?/tabpage[@accessiblename='Action Providers']"
+				fullname="AutomationSQLdmRepository.NotificationRulesDialog.ActionProviders"
+				id="59284170fbf34877b2844500d8843760"
+				timeout="60000"
+				codefile="D:\repos\fullcodenew\AutomationSQLdm\AutomationSQLdm\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.019"
+			timeRelativeToTestModuleStartTime="00:34.021"
+			timeWallClock="03:25:03"
+			time="00:34.019"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRulesDialog.AddButton' at 41;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='NotificationRulesDialog']/?/?/container[@controlname='ultraTabPageControl2']//container[@controlname='panel1']/button[@controlname='addButton']"
+				itempath="?/?/container[@controlname='ultraTabPageControl2']//container[@controlname='panel1']/button[@controlname='addButton']"
+				fullname="AutomationSQLdmRepository.NotificationRulesDialog.AddButton"
+				id="966da63caba5403e83348189cf434ae1"
+				timeout="60000"
+				codefile="D:\repos\fullcodenew\AutomationSQLdm\AutomationSQLdm\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:35.336"
+			timeRelativeToTestModuleStartTime="00:35.338"
+			timeWallClock="03:25:05"
+			time="00:35.336"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddActionProviderWizard.Xb0664f16ddb81b92' at 27;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='AddActionProviderWizard']/?/?/button[@controlname='xb0664f16ddb81b92']"
+				itempath="?/?/button[@controlname='xb0664f16ddb81b92']"
+				fullname="AutomationSQLdmRepository.AddActionProviderWizard.Xb0664f16ddb81b92"
+				id="c186a7f20e8e4656831afbd4c8991997"
+				timeout="60000"
+				codefile="D:\repos\fullcodenew\AutomationSQLdm\AutomationSQLdm\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:57.729"
+			timeRelativeToTestModuleStartTime="00:57.731"
+			timeWallClock="03:25:27"
+			time="00:57.729"
+			level="Warn"
+			category="WinForms">
+			<message>
+				This control (from process '(Unknown)') seems to be a Windows Forms control, but was not recognized as such, possibly due to a security limitation. UI element identification capabilities for this control may be limited.<br/>If this control is a WinForms control, please make sure that the automating process has the rights to access the automated application. Otherwise, please ignore this limitation.<br/>Process: (pid 0)<br/>The following website provides more information on this technology limitation:<br/>https://www.ranorex.com/help/v8.2/interfaces-connectivity/technology-instrumentation/general-troubleshooting/#DotNetWinForms<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="PotentiallyWinForms"
+				showInProgressDialog="False"
+				codefile="D:\repos\fullcodenew\AutomationSQLdm\AutomationSQLdm\Recording1.cs"
+				codeline="95"
+				loglvl="Warn"
+				itemindex="3">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:04.965"
+			timeRelativeToTestModuleStartTime="01:04.967"
+			timeWallClock="03:25:34"
+			time="01:04.965"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

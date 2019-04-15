@@ -1,0 +1,22 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="BVT\Steps.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="BVT\Steps.cs" />
+    <Element value="BVT\TC_722118\VerifyanalertresponsecanbeCopiedSuccessfully.cs" />
+    <Element value="BVT\TC_722117\VerifyanalertresponsecanbeRemovedSuccessfully.cs" />
+    <Element value="BVT\TC_722114\BVTVerifyanactionprovidercanbeRemovedSuccessfully.cs" />
+    <Element value="BVT\TC_722119\VerifyanalertresponsecanbeEditedSuccessfully.cs" />
+    <Element value="AutomationSQLdm.rxtst" />
+    <Element value="BVT\TC_722120\VerifyanalertresponsecanbeAddedSuccessfully.cs" />
+    <Element value="BVT\TC_722115\VerifyanActionProviderCanbeEditedSuccessfully.cs" />
+    <Element value="BVT\BVTRepo.rxrep" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
