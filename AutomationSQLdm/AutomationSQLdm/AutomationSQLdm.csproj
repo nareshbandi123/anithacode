@@ -147,6 +147,9 @@
     <Compile Include="BVT\Steps.cs">
       <id>4f4d7609-24f4-4588-9914-7943fa6ff22b</id>
     </Compile>
+    <Compile Include="BVT\TC_722025\Verifydatacollectionhappensandshowsdata.cs">
+      <id>d85d6101-b6d8-4abd-a8ba-9cc0c8805bb0</id>
+    </Compile>
     <Compile Include="BVT\TC_722114\BVTVerifyanactionprovidercanbeRemovedSuccessfully.cs">
       <id>f346a739-3d88-4d88-905e-9952ec0b552a</id>
     </Compile>
@@ -459,6 +462,9 @@
     </Folder>
     <Folder Include="Base">
       <id>ef5cd861-297c-44b3-a2dd-d36529c4ce01</id>
+    </Folder>
+    <Folder Include="BVT\TC_722025">
+      <id>ac41a0db-aeb1-46c4-b549-d9501cb6fc66</id>
     </Folder>
     <Folder Include="BVT\TC_722118">
       <id>2408841a-b671-4db5-b893-48f9751279c4</id>
