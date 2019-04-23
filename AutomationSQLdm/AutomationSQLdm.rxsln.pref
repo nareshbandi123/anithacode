@@ -32,6 +32,6 @@
       <string>1baf21b8-f274-4f5b-94e6-4ce926db2662</string>
     </ArrayOfString>
   </SerializedValue>
-  <ProjectBrowserState value="[Solution AutomationSQLdm[AutomationSQLdm[BVT[TC_722114[]TC_722115[]TC_722117[]TC_722118[]TC_722119[]TC_722120[]]TestData[]AutomationSQLdmRepository.rxrep[]]]]&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\BVT\Steps.cs&#xD;&#xA;Solution AutomationSQLdm" />
+  <ProjectBrowserState value="[Solution AutomationSQLdm[AutomationSQLdm[BVT[TC_722025[]TC_722114[]TC_722115[]TC_722117[]TC_722118[]TC_722119[]TC_722120[]]TestData[]AutomationSQLdmRepository.rxrep[]]]]&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\BVT\TC_722025\Verifydatacollectionhappensandshowsdata.cs&#xD;&#xA;Solution AutomationSQLdm" />
   <StartupProject value="{61F99090-53F7-41D0-9F8A-6FC8C2262E52}" />
 </Properties>
